@@ -1,2 +1,2 @@
 # screenshot_script
-this is a python script use for screenshot
+This is a python script use for PC's whole windows screenshot
